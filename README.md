@@ -20,6 +20,7 @@
 - JAK TV
 - TVONE Digital
 - Sportone
+- Betawi TV
 
 # Saluran 36 (594 MHz) - 26 KM*
 - Berita Satu HD
