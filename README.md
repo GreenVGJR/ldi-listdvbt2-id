@@ -63,8 +63,8 @@
 - MNCTV HD
 
 # Saluran 48 (690 MHz) - 23 KM*
-- RTV-1
-- RTV-2
+- RTV-1-HD
+- RTV-2-HD
 
 Credit:
 - https://isamunoheya.blogspot.com/2020/10/daftar-saluran-televisi-digital-dtv.html
