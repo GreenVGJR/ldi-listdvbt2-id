@@ -39,6 +39,7 @@
 - CNN INDONESIA HD  
 - KOMPAS TV
 - KTV
+- gramediatv
 - TRANS 7 HD 
 - TRANS TV HD 
 
