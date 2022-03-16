@@ -50,7 +50,7 @@
 - TVRI Sport HD
 - DAAI TV
 - Inspira TV
-- NET TV
+- NET TV HD
 - BADAR TV
 - TVmu
 - Tempo TV (Lagi Gak Ada)
