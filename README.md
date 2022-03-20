@@ -43,9 +43,8 @@
 # Saluran 40 (626 MHz) - 24 KM*
 - CNBC INDONESIA HD 
 - CNN INDONESIA HD  
-- KOMPAS TV
-- KTV
-- gramediatv
+- KTV (Lagi Gak Ada)
+- gramediatv (Lagi Gak Ada)
 - TRANS 7 HD 
 - TRANS TV HD 
 
