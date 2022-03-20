@@ -3,11 +3,16 @@
 - Indosiar HD
 - Mentari TV HD
 - O Channel HD
+- Kompas TV
+
+# Saluran 29 (538 MHz) -
+
+-
 
 # Saluran 32 (562 MHz) - 21 KM*
 - BBS TV Jakarta
 - BN TV HD
-- Jawapostv
+- Jawapostv (Lagi Gak Ada)
 - Metro TV
 - Metro TV HD
 - MY TV
@@ -21,6 +26,7 @@
 - TVONE Digital
 - Sportone
 - Betawi TV
+- JP TV
 
 # Saluran 36 (594 MHz) - 26 KM*
 - Berita Satu HD
@@ -46,7 +52,7 @@
 # Saluran 42 (642 MHz) - 23 KM*
 - TVRI Nasional HD
 - TVRI DKI
-- TVRI 3 / TVRI World HD
+- TVRI World HD
 - TVRI Sport HD
 - DAAI TV
 - Inspira TV
