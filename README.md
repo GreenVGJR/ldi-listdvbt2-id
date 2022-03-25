@@ -3,7 +3,7 @@
 - Indosiar HD
 - Mentari TV HD
 - O Channel HD
-- Kompas TV
+- Kompas TV HD
 
 # Saluran 29 (538 MHz) -
 
@@ -31,7 +31,7 @@
 # Saluran 36 (594 MHz) - 26 KM*
 - Berita Satu HD
 - Berita Satu World HD
-- Berita Satu English HD
+- Berita Satu English HD (Lagi Gak Ada)
 
 # Saluran 38 (610 MHz) - 31 KM*
 - Service 2
