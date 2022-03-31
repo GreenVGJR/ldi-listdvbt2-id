@@ -5,10 +5,6 @@
 - O Channel HD
 - Kompas TV HD
 
-# Saluran 29 (538 MHz) -
-
--
-
 # Saluran 32 (562 MHz) - 21 KM*
 - BBS TV Jakarta
 - BN TV HD
@@ -31,7 +27,8 @@
 # Saluran 36 (594 MHz) - 26 KM*
 - Berita Satu HD
 - Berita Satu World HD
-- Berita Satu English HD (Lagi Gak Ada)
+- Berita Satu English HD
+- EChannel
 
 # Saluran 38 (610 MHz) - 31 KM*
 - Service 2
