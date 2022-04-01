@@ -41,7 +41,7 @@
 - CNBC INDONESIA HD 
 - CNN INDONESIA HD  
 - KTV (Lagi Gak Ada)
-- gramediatv (Lagi Gak Ada)
+- GRAMEDIA
 - TRANS 7 HD 
 - TRANS TV HD 
 
@@ -55,7 +55,7 @@
 - NET TV HD
 - BADAR TV
 - TVmu
-- Tempo TV (Lagi Gak Ada)
+- Tempo TV (Shutdown)
 - Nusantara TV
 - Elshinta TV
 
@@ -68,6 +68,8 @@
 # Saluran 48 (690 MHz) - 23 KM*
 - RTV-1-HD
 - RTV-2-HD
+- Siaran Kosong
+- Siaran Kosong
 
 Credit:
 - https://isamunoheya.blogspot.com/2020/10/daftar-saluran-televisi-digital-dtv.html
