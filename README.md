@@ -6,9 +6,9 @@
 - Kompas TV HD
 
 # Saluran 32 (562 MHz) - 21 KM*
-- BBS TV Jakarta
+- BBS TV
 - BN TV HD
-- Jawapostv (Lagi Gak Ada)
+- JPM TV
 - Metro TV
 - Metro TV HD
 - MY TV
@@ -40,7 +40,7 @@
 # Saluran 40 (626 MHz) - 24 KM*
 - CNBC INDONESIA HD 
 - CNN INDONESIA HD  
-- KTV (Lagi Gak Ada)
+- KTV
 - GRAMEDIA
 - TRANS 7 HD 
 - TRANS TV HD 
