@@ -5,7 +5,7 @@
 - O Channel HD
 - Kompas TV HD
 
-# Saluran 30 (543 MHz) -
+# Saluran 30 (546 MHz) -
 -
 
 # Saluran 32 (562 MHz) - 21 KM*
@@ -27,7 +27,7 @@
 - Betawi TV
 - JP TV
 
-# Saluran 35 (583 MHz) - 17 KM*
+# Saluran 35 (586 MHz) - 17 KM*
 -
 
 # Saluran 36 (594 MHz) - 26 KM*
