@@ -5,6 +5,9 @@
 - O Channel HD
 - Kompas TV HD
 
+# Saluran 30 (543 MHz) -
+-
+
 # Saluran 32 (562 MHz) - 21 KM*
 - BBS TV
 - BN TV HD
@@ -23,6 +26,9 @@
 - Sportone
 - Betawi TV
 - JP TV
+
+# Saluran 35 (583 MHz) - 17 KM*
+-
 
 # Saluran 36 (594 MHz) - 26 KM*
 - Berita Satu HD
